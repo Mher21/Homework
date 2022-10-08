@@ -1,4 +1,4 @@
-Hello WOrld!!!
+WOrld!!!
 #include <iostream>
 #include <stdlib.h>
 class GamePiece
