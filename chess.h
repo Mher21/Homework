@@ -1,4 +1,4 @@
-#include <cmath.h>
+Added by Mher
 #include <iostream>
 #include <stdlib.h>
 class GamePiece
