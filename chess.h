@@ -1,4 +1,4 @@
-Added by Mher
+Added by Zaven
 #include <iostream>
 #include <stdlib.h>
 class GamePiece
